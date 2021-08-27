@@ -1,0 +1,13 @@
+.container{background-image: url("https://c4.wallpaperflare.com/wallpaper/324/626/350/dark-background-black-code-minimal-wallpaper-thumb.jpg");}
+body{
+    display: flex;
+    justify-content: center;
+}
+table{
+color:white}
+th{font-size:500%;}
+.row1_2_column2{vertical-align: top;}
+.row1_1_column2{vertical-align: bottom;}
+.row2_1_column2{vertical-align: bottom;}
+.row2_2_column2{vertical-align: top;}
+.row3_1_column2{vertical-align: center;}
